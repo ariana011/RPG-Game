@@ -45,12 +45,7 @@ This project is open-source and available under the MIT License.
 
 Have fun slaying the dragon and saving the town! 🐲🛡️
 
-vbnet
-Copy
-Edit
 
-### ✅ Next Step:
-Just create a new file in your GitHub repo named `README.md` and paste the above content into it. Let me know if you'd like a version with screenshots or if you need help creating a GitHub Pages version so it can be played online!
 
 
 
