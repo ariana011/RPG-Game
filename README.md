@@ -45,6 +45,8 @@ This project is open-source and available under the MIT License.
 
 Have fun slaying the dragon and saving the town! 🐲🛡️
 
+- Ariana Garcia 
+
 
 
 
